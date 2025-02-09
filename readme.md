@@ -30,8 +30,8 @@ A real-time benchmarking tool that compares YOLO model performance across differ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yolo-benchmark.git
-cd yolo-benchmark
+git clone https://github.com/benny-png/YOLO11_in_INTEL_and_NVIDIA_GPU_and_CPU_openvino_vs_PT_models_TEST_BENCHMARKING
+cd YOLO11_in_INTEL_and_NVIDIA_GPU_and_CPU_openvino_vs_PT_models_TEST_BENCHMARKING
 ```
 
 2. Create and activate a virtual environment:
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 1. Start the benchmark:
 ```bash
-python benchmark.py
+python benchmark_intel_vs_nvidia.py
 ```
 
 2. The application will show a split-screen view with:
