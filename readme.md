@@ -70,7 +70,7 @@ python benchmark_intel_vs_nvidia.py
 To modify the speed of a recorded benchmark video:
 
 ```bash
-python speed_up_video.py
+python increase_speed.py
 ```
 
 ## Files Description
