@@ -1,5 +1,7 @@
 # YOLO Multi-Device Benchmark Tool
 
+![Benchmarking GIF](https://github.com/benny-png/YOLO11_in_INTEL_and_NVIDIA_GPU_and_CPU_openvino_vs_PT_models_TEST_BENCHMARKING/blob/main/ezgif-3b89b35cbf3cc0.gif)
+
 A real-time benchmarking tool that compares YOLO model performance across different devices and model formats simultaneously. This tool provides a visual comparison of object detection performance on:
 - NVIDIA GPU with PyTorch
 - Intel GPU with OpenVINO
